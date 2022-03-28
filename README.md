@@ -7,7 +7,7 @@ HEAAN is a software library that implements homomorphic encryption (HE) that sup
 make clean\
 make all
 
-# To build the run code, you need to locate the "run" folder and type:
+# To build the "run-file" code, you need to locate the "run" folder and type:
 
 make clean\
 make
