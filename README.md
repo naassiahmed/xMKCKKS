@@ -32,20 +32,4 @@ Copyright (c) by CryptoLab inc. This program is licensed under a Creative Common
 
 # Citation
 
-@article{eXtendedMKCKKS,
-  author    = {Jing Ma and
-               Si{-}Ahmed Naas and
-               Stephan Sigg and
-               Xixiang Lyu},
-  title     = {Privacy-preserving Federated Learning based on Multi-key Homomorphic
-               Encryption},
-  journal   = {CoRR},
-  volume    = {abs/2104.06824},
-  year      = {2021},
-  url       = {https://arxiv.org/abs/2104.06824},
-  eprinttype = {arXiv},
-  eprint    = {2104.06824},
-  timestamp = {Mon, 19 Apr 2021 16:45:47 +0200},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2104-06824.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+Ma, J, Naas, S-A, Sigg, S, Lyu, X. Privacy-preserving federated learning based on multi-key homomorphic encryption. Int J Intell Syst. 2022; 1- 22. doi:10.1002/int.22818
