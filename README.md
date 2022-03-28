@@ -21,3 +21,24 @@ You can choose other operations from the following list : Encrypt, EncryptSingle
 # Licence
 
 Copyright (c) by CryptoLab inc. This program is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License. You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-nc/3.0/.
+
+
+# Citation
+
+@article{eXtendedMKCKKS,
+  author    = {Jing Ma and
+               Si{-}Ahmed Naas and
+               Stephan Sigg and
+               Xixiang Lyu},
+  title     = {Privacy-preserving Federated Learning based on Multi-key Homomorphic
+               Encryption},
+  journal   = {CoRR},
+  volume    = {abs/2104.06824},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2104.06824},
+  eprinttype = {arXiv},
+  eprint    = {2104.06824},
+  timestamp = {Mon, 19 Apr 2021 16:45:47 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2104-06824.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
