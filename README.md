@@ -20,8 +20,8 @@ You can choose other operations from the following list : Encrypt, EncryptSingle
 
 # Dependencies
 
-CMake (>= 3.12), GNU G++ (>= 6.0) or Clang++ (>= 5.0) (https://cmake.org/install/)\
-GMP (>=6.1.2) (https://gmplib.org/)\
+CMake (>= 3.12), GNU G++ (>= 6.0) or Clang++ (>= 5.0) (https://cmake.org/install/) \
+GMP (>=6.1.2) (https://gmplib.org/) \
 NTL (>=11.4.3) (https://libntl.org/)
 
 # Licence
