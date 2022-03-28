@@ -1,6 +1,6 @@
 # xMKCKKS
 Multi‐key homomorphic encryption based on MKCKKS
-HEAAN is a software library that implements homomorphic encryption (HE) that supports fixed point arithmetics. This library supports approximate operations between rational numbers. The approximate error depends on some parameters and almost same with floating point operation errors.
+HEAAN is a software library that implements homomorphic encryption (HE) that supports fixed point arithmetics. This library supports approximate operations between rational numbers. The approximate error depends on some parameters and almost same with floating point operation errors. In this scheme, data is encrypted via an aggregated public key before sharing with a server for aggregation. For decryption, collaboration between all participating devices is required to prevent privacy leakage from 
 
 # To install the library, you need to locate the "lib" folder in the console and type:
 
