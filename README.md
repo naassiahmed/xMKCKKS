@@ -18,6 +18,12 @@ make
 
 You can choose other operations from the following list : Encrypt, EncryptSingle, Add, Mult, iMult, RotateFast, Conjugate, DecryptSingle
 
+# Dependencies
+
+CMake (>= 3.12), GNU G++ (>= 6.0) or Clang++ (>= 5.0) (https://cmake.org/install/)\
+GMP (>=6.1.2) (https://gmplib.org/)\
+NTL (>=11.4.3) (https://libntl.org/)
+
 # Licence
 
 Copyright (c) by CryptoLab inc. This program is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported License. You should have received a copy of the license along with this work. If not, see http://creativecommons.org/licenses/by-nc/3.0/.
