@@ -4,12 +4,12 @@ HEAAN is a software library that implements homomorphic encryption (HE) that sup
 
 # To install the library, you need to locate the "lib" folder in the console and type:
 
-make clean
+make clean\
 make all
 
 # To build the run code, you need to locate the "run" folder and type:
 
-make clean
+make clean\
 make
 
 # To run this library, you need to type:
